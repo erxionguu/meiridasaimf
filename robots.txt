@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erxionguu.github.io/meiridasaimf/sitemap.xml
